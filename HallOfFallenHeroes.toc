@@ -1,0 +1,8 @@
+## Interface: 120001, 120005
+## Title: Hall of Fallen Heroes
+## Notes: a <Wicked Demise> Skullcrusher EU addon
+## Author: Frost-Lightbringer
+## Version: 12.0.5
+## SavedVariables: HoFH_LastDeath
+
+HallOfFallenHeroes.lua
