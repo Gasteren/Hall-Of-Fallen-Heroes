@@ -4,5 +4,6 @@
 ## Author: Frost-Lightbringer
 ## Version: 12.0.5
 ## SavedVariables: HoFH_LastDeath
+## X-Curse-Project-ID: 1516414
 
 HallOfFallenHeroes.lua
