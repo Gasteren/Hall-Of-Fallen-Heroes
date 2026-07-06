@@ -1,4 +1,4 @@
-## Interface: 120005, 120007
+## Interface: 120007
 ## Title: Hall of Fallen Heroes
 ## Notes: a <Wicked Demise> Skullcrusher EU addon
 ## Author: Frost-Lightbringer
