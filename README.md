@@ -16,7 +16,7 @@ It allows players to interact with gravestones created after deaths in delves an
 
 ## How to Use
 
-1.  Log into World of Warcraft
+1.  Be in Wicked-Demise on EU Skullcrusher | Log into World of Warcraft
 2.  Enter any delve level in the game
 3.  Find gravestones created by players after death
 4.  Right-click a gravestone
