@@ -1,4 +1,4 @@
-## Interface: 120007, 120100
+## Interface: 120007, 120100, 120105
 
 ## Title: Hall of Fallen Heroes
 ## Notes: a <Wicked Demise> Skullcrusher EU addon
