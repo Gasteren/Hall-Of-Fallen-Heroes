@@ -19,7 +19,7 @@ jobs:
           zip -r HallOfFallenHeroes.zip HallOfFallenHeroes
 
       - name: Upload to CurseForge
-        uses: itsmeow/curseforge-upload@v3
+        uses: itsmeow/curseforge-upload@13f278adc4cc7b881555f87e6ea528387dd6492b # v3 (v3.1.0)
         with:
           token: "${{ secrets.HALLOFFALLENHEROES }}"
           project_id: "1516414"
