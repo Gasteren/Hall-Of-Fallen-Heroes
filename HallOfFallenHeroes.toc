@@ -2,7 +2,7 @@
 
 ## Title: Hall of Fallen Heroes
 ## Notes: a <Wicked Demise> Skullcrusher EU addon
-## Author: Frost-Lightbringer
+## Author: Frost Forever | EU Normal Ruleset
 ## Version: 1.0.0
 ## SavedVariables: HoFH_LastDeath
 ## X-Curse-Project-ID: 1516414
